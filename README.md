@@ -1,10 +1,14 @@
 # 🛠️ Node.js Backend Project
 
-This repository contains a full-featured backend project built using **Node.js** and **Express.js**, developed as part of my learning journey under the guidance of [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom).
+This repository contains a full-featured backend project built using **Node.js** and **Express.js**, developed as part of my learning journey under the guidance of [Hitesh Choudhary](https://www.youtube.com/@chaiaurcode).
 
 ## 🚀 Overview
 
 This backend application is designed with modern and scalable architecture principles. It integrates essential backend development practices and tools commonly used in production-grade systems.
+
+## Model Link
+
+https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj
 
 ### ✅ Features
 
